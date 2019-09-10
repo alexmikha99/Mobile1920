@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flip coin</string>
+    <string name="tryme">T R Y   M E!</string>
+    <string name="master">Flip the coin</string>
+</resources>
